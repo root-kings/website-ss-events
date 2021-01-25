@@ -2,35 +2,35 @@
   font-family: 'Great Vibes';
   font-style: normal;
   font-weight: 400;
-  src: local('Great Vibes'), local('GreatVibes-Regular'), url(http://fonts.gstatic.com/s/greatvibes/v8/RWmMoKWR9v4ksMfaWd_JN9XFiaE.ttf) format('truetype');
+  src: local('Great Vibes'), local('GreatVibes-Regular'), url(https://fonts.gstatic.com/s/greatvibes/v8/RWmMoKWR9v4ksMfaWd_JN9XFiaE.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Hind';
   font-style: normal;
   font-weight: 300;
-  src: local('Hind Light'), local('Hind-Light'), url(http://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfMJaERySiA.ttf) format('truetype');
+  src: local('Hind Light'), local('Hind-Light'), url(https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfMJaERySiA.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Hind';
   font-style: normal;
   font-weight: 400;
-  src: local('Hind Regular'), local('Hind-Regular'), url(http://fonts.gstatic.com/s/hind/v11/5aU69_a8oxmIdGl4AQ.ttf) format('truetype');
+  src: local('Hind Regular'), local('Hind-Regular'), url(https://fonts.gstatic.com/s/hind/v11/5aU69_a8oxmIdGl4AQ.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Hind';
   font-style: normal;
   font-weight: 500;
-  src: local('Hind Medium'), local('Hind-Medium'), url(http://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfJpbERySiA.ttf) format('truetype');
+  src: local('Hind Medium'), local('Hind-Medium'), url(https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfJpbERySiA.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Hind';
   font-style: normal;
   font-weight: 600;
-  src: local('Hind SemiBold'), local('Hind-SemiBold'), url(http://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfLZcERySiA.ttf) format('truetype');
+  src: local('Hind SemiBold'), local('Hind-SemiBold'), url(https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfLZcERySiA.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Hind';
   font-style: normal;
   font-weight: 700;
-  src: local('Hind Bold'), local('Hind-Bold'), url(http://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfNJdERySiA.ttf) format('truetype');
+  src: local('Hind Bold'), local('Hind-Bold'), url(https://fonts.gstatic.com/s/hind/v11/5aU19_a8oxmIfNJdERySiA.ttf) format('truetype');
 }
